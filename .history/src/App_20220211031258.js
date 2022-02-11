@@ -1,7 +1,7 @@
 import './App.css';
 import { useState } from 'react'
 import { ethers } from 'ethers'
-import Greeter from 'Greeter.json'
+import Greeter from './artifacts/contracts/Greeter.sol/Greeter.json'
 
 // Deploy sonrası verdiği adresi buraya giriyoruz
 
